@@ -7,3 +7,5 @@ pandas
 dataset
 psycopg2
 textblob
+datafreeze
+normality
